@@ -1,3 +1,10 @@
+🚀 **Live Streamlit App:**  
+👉 https://student-stress-analysis-ml-ctmq66afybentfvuse93rv.streamlit.app/
+
+<p align="center">
+[![Streamlit App](https://img.shields.io/badge/🌐%20Live%20App-Click%20Here-brightgreen?style=for-the-badge)](https://student-stress-analysis-ml-ctmq66afybentfvuse93rv.streamlit.app/)
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=140&section=header&text=Student%20Stress%20Analysis%20Using%20Machine%20Learning&fontSize=30&fontColor=58a6ff&animation=scaleIn" />
 </p>
@@ -274,3 +281,4 @@ It is fully suitable for academic submission, portfolio display, or deployment.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0d1117&height=100&section=footer" />
 </p>
+
